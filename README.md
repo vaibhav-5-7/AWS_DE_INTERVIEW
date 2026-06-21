@@ -2,9 +2,9 @@
 aws data engineer interview questions
 AWS DATA ENGINEER INTERVIEW MASTER CHECKLIST
 
-========================================
+=========================================
 1. PROJECT & ARCHITECTURE
-========================================
+=========================================
 
 1. Explain your project end-to-end.
 2. Explain the complete data flow.
@@ -17,9 +17,9 @@ AWS DATA ENGINEER INTERVIEW MASTER CHECKLIST
 9. What challenges did you face?
 10. What would you improve in your architecture?
 
-========================================
+=========================================
 2. DATA INGESTION & MIGRATION
-========================================
+=========================================
 
 11. How do you move data from RDBMS to S3?
 12. How do you move data from S3 to Redshift?
@@ -32,9 +32,9 @@ AWS DATA ENGINEER INTERVIEW MASTER CHECKLIST
 19. Full Load vs Incremental Load?
 20. How do you implement incremental loads?
 
-========================================
+=========================================
 3. CDC & DATA PROCESSING
-========================================
+=========================================
 
 21. What is CDC?
 22. How do you implement CDC?
@@ -47,9 +47,9 @@ AWS DATA ENGINEER INTERVIEW MASTER CHECKLIST
 29. How do you validate incoming files?
 30. How do you perform reconciliation?
 
-========================================
+=========================================
 4. AMAZON S3
-========================================
+=========================================
 
 31. What is S3?
 32. Why is S3 highly durable?
@@ -63,9 +63,9 @@ AWS DATA ENGINEER INTERVIEW MASTER CHECKLIST
 40. How do you secure S3 buckets?
 41. How do you optimize S3 for Athena?
 
-========================================
+=========================================
 5. IAM
-========================================
+=========================================
 
 42. What is IAM?
 43. User vs Group vs Role?
@@ -77,9 +77,9 @@ AWS DATA ENGINEER INTERVIEW MASTER CHECKLIST
 49. IAM usage in Lambda?
 50. IAM usage in Redshift?
 
-========================================
+=========================================
 6. LAMBDA
-========================================
+=========================================
 
 51. What is Lambda?
 52. How does Lambda work?
@@ -92,9 +92,9 @@ AWS DATA ENGINEER INTERVIEW MASTER CHECKLIST
 59. What if processing takes longer than 15 minutes?
 60. Lambda vs Glue?
 
-========================================
+=========================================
 7. AWS GLUE
-========================================
+=========================================
 
 61. What is AWS Glue?
 62. What is Glue Catalog?
@@ -109,9 +109,9 @@ AWS DATA ENGINEER INTERVIEW MASTER CHECKLIST
 71. How do you detect schema changes?
 72. How does Glue Catalog integrate with Athena?
 
-========================================
+=========================================
 8. ATHENA
-========================================
+=========================================
 
 73. What is Athena?
 74. Athena vs Redshift?
@@ -125,9 +125,9 @@ AWS DATA ENGINEER INTERVIEW MASTER CHECKLIST
 82. How do you optimize Athena queries?
 83. How do you reduce Athena costs?
 
-========================================
+=========================================
 9. REDSHIFT
-========================================
+=========================================
 
 84. What is Redshift?
 85. Explain Redshift Architecture.
@@ -142,9 +142,9 @@ AWS DATA ENGINEER INTERVIEW MASTER CHECKLIST
 94. How do you optimize Redshift?
 95. Redshift vs Athena?
 
-========================================
+=========================================
 10. AIRFLOW
-========================================
+=========================================
 
 96. What is Airflow?
 97. What is a DAG?
@@ -157,9 +157,9 @@ AWS DATA ENGINEER INTERVIEW MASTER CHECKLIST
 104. Airflow vs Step Functions?
 105. Airflow vs EventBridge?
 
-========================================
+=========================================
 11. EMR (BASIC)
-========================================
+=========================================
 
 106. What is EMR?
 107. When would you use EMR?
@@ -169,9 +169,9 @@ AWS DATA ENGINEER INTERVIEW MASTER CHECKLIST
 111. Hadoop on EMR?
 112. How do you scale EMR clusters?
 
-========================================
+=========================================
 12. DATA MODELING
-========================================
+=========================================
 
 113. Fact Table vs Dimension Table?
 114. Star Schema vs Snowflake Schema?
@@ -184,9 +184,9 @@ AWS DATA ENGINEER INTERVIEW MASTER CHECKLIST
 121. Design a Social Media Data Model.
 122. Design a Stock Market Data Warehouse.
 
-========================================
+=========================================
 13. SECURITY
-========================================
+=========================================
 
 123. How do you secure PII data?
 124. Encryption at Rest vs In Transit?
@@ -199,9 +199,9 @@ AWS DATA ENGINEER INTERVIEW MASTER CHECKLIST
 131. How do you implement data masking?
 132. How do you implement RBAC?
 
-========================================
+=========================================
 14. SCENARIO QUESTIONS
-========================================
+=========================================
 
 133. Schema changes unexpectedly. What do you do?
 134. Glue job fails in production. What do you do?
@@ -212,9 +212,9 @@ AWS DATA ENGINEER INTERVIEW MASTER CHECKLIST
 139. Missing Athena partition. How do you fix it?
 140. Business users report incorrect numbers. How do you investigate?
 
-========================================
+=========================================
 MOST IMPORTANT QUESTIONS
-========================================
+=========================================
 
 Project Architecture
 RDBMS → S3
