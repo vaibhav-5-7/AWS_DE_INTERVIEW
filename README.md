@@ -3,7 +3,7 @@ aws data engineer interview questions
 AWS DATA ENGINEER INTERVIEW MASTER CHECKLIST
 
 _
-1. PROJECT & ARCHITECTURE
+# 1. PROJECT & ARCHITECTURE
 _
 
 1. Explain your project end-to-end.
@@ -18,7 +18,7 @@ _
 10. What would you improve in your architecture?
 
 _
-2. DATA INGESTION & MIGRATION
+# 2. DATA INGESTION & MIGRATION
 _
 
 11. How do you move data from RDBMS to S3?
@@ -33,7 +33,7 @@ _
 20. How do you implement incremental loads?
 
 _
-3. CDC & DATA PROCESSING
+# 3. CDC & DATA PROCESSING
 _
 
 21. What is CDC?
@@ -48,7 +48,7 @@ _
 30. How do you perform reconciliation?
 
 _
-4. AMAZON S3
+# 4. AMAZON S3
 _
 
 31. What is S3?
@@ -64,7 +64,7 @@ _
 41. How do you optimize S3 for Athena?
 
 _
-5. IAM
+# 5. IAM
 _
 
 42. What is IAM?
@@ -78,7 +78,7 @@ _
 50. IAM usage in Redshift?
 
 _
-6. LAMBDA
+# 6. LAMBDA
 _
 
 51. What is Lambda?
@@ -93,7 +93,7 @@ _
 60. Lambda vs Glue?
 
 _
-7. AWS GLUE
+# 7. AWS GLUE
 _
 
 61. What is AWS Glue?
@@ -110,7 +110,7 @@ _
 72. How does Glue Catalog integrate with Athena?
 
 _
-8. ATHENA
+# 8. ATHENA
 _
 
 73. What is Athena?
@@ -126,7 +126,7 @@ _
 83. How do you reduce Athena costs?
 
 _
-9. REDSHIFT
+# 9. REDSHIFT
 _
 
 84. What is Redshift?
@@ -143,7 +143,7 @@ _
 95. Redshift vs Athena?
 
 _
-10. AIRFLOW
+# 10. AIRFLOW
 _
 
 96. What is Airflow?
@@ -158,7 +158,7 @@ _
 105. Airflow vs EventBridge?
 
 _
-11. EMR (BASIC)
+# 11. EMR (BASIC)
 _
 
 106. What is EMR?
@@ -170,7 +170,7 @@ _
 112. How do you scale EMR clusters?
 
 _
-12. DATA MODELING
+# 12. DATA MODELING
 _
 
 113. Fact Table vs Dimension Table?
@@ -185,7 +185,7 @@ _
 122. Design a Stock Market Data Warehouse.
 
 _
-13. SECURITY
+# 13. SECURITY
 _
 
 123. How do you secure PII data?
@@ -200,7 +200,7 @@ _
 132. How do you implement RBAC?
 
 _
-14. SCENARIO QUESTIONS
+# 14. SCENARIO QUESTIONS
 _
 
 133. Schema changes unexpectedly. What do you do?
@@ -213,7 +213,7 @@ _
 140. Business users report incorrect numbers. How do you investigate?
 
 _
-MOST IMPORTANT QUESTIONS
+# MOST IMPORTANT QUESTIONS
 _
 
 Project Architecture
